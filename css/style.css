@@ -1,0 +1,70 @@
+table {
+    width: 100%;
+    font-family: arial;
+}
+
+.kop { 
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #c9c9c9;
+    font-weight: bold;
+    width: 50px;
+}
+
+.kop2 { 
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #c9c9c9;
+    font-weight: bold;
+    text-align: center;
+}
+.kop3 { 
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #c9c9c9;
+    font-weight: bold;
+    text-align: center;
+}
+.kop4 {
+    background-color: lightblue;
+}
+.kop5 {
+    background-color: lightblue;
+}
+.kop6 {
+    background-color: lightblue;
+}
+.kop7 {
+    background-color: lightblue;
+}
+.kop8 {
+    background-color: lightblue;
+}
+.kop9 {
+    background-color: lightblue;
+}
+.kop10 {
+    background-color: lightblue;
+}
+.kop11 {
+    background-color: lightblue;
+}
+.kop12 {
+    background-color: lightblue;
+}
+.kop13 {
+    background-color: lightblue;
+}
+.kop14 {
+    background-color: lightblue;
+}
+.kop15 {
+    background-color: lightblue;
+}
+.kop16 {
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #c9c9c9;
+    font-weight: bold;
+    text-align: center;
+}
